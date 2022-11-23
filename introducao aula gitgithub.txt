@@ -1,0 +1,8 @@
+ introduçaõ ao cursto git github
+comandos diretorios 
+comandos git  
+git status
+git commit 
+git push 
+git pull 
+entre outros 
